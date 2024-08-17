@@ -1,1 +1,1 @@
-# cpu.github.io
+# cpu
